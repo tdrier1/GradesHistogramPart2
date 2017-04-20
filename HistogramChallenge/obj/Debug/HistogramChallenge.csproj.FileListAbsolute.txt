@@ -1,0 +1,6 @@
+C:\Users\tdrie\Desktop\Intro_Projects\HistogramChallenge\HistogramChallenge\bin\Debug\HistogramChallenge.exe.config
+C:\Users\tdrie\Desktop\Intro_Projects\HistogramChallenge\HistogramChallenge\obj\Debug\HistogramChallenge.csprojResolveAssemblyReference.cache
+C:\Users\tdrie\Desktop\Intro_Projects\HistogramChallenge\HistogramChallenge\bin\Debug\HistogramChallenge.exe
+C:\Users\tdrie\Desktop\Intro_Projects\HistogramChallenge\HistogramChallenge\bin\Debug\HistogramChallenge.pdb
+C:\Users\tdrie\Desktop\Intro_Projects\HistogramChallenge\HistogramChallenge\obj\Debug\HistogramChallenge.exe
+C:\Users\tdrie\Desktop\Intro_Projects\HistogramChallenge\HistogramChallenge\obj\Debug\HistogramChallenge.pdb
